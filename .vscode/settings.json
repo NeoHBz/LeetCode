@@ -17,5 +17,8 @@
     "unordered_map": "cpp",
     "vector": "cpp",
     "iostream": "cpp"
-  }
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false
 }
